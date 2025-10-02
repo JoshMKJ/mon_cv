@@ -1,8 +1,8 @@
 [
 	{
 		"icon": "./assets/icons/Icon.svg",
-		"title": "UI/UX Design",
-		"desc": "J'utilise Figma pour créer des maquettes de site web"
+		"title": "Technicien informatique",
+		"desc": "Diagnostiquer et résoudre les problèmes techniques. Fournir un support aux utilisateurs. Assurer le bon fonctionnement des systèmes et équipements informatiques."
 	},
 	{
 		"icon": "./assets/icons/Icon-1.svg",
@@ -11,7 +11,7 @@
 	},
 	{
 		"icon": "./assets/icons/Icon-2.svg",
-		"title": "FrontEnd",
-		"desc": "J'utilise JavasScript pour créer des pages intéractives"
+		"title": "Backend",
+		"desc": "J'utilise PHP et C#  pour créer des application intéractives"
 	}
 ]
